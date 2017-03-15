@@ -1,0 +1,8 @@
+2. Analise a saída do ANTLR para o parsing do seguinte Array: {99, 3, 451} 
+	a)Descreva a função de cada um dos arquivos produzidos e qual seu papel na compilação da sentença da gramática;
+
+		
+		Arquivos gerados após a execução de: antlr ArrayInit.g4
+			ArrayInitParser.java = A classe 'Parser' criada no arquivo .java, reconhece a gramática definida.
+			ArrayInitLexer.java  = 
+
